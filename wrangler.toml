@@ -1,4 +1,4 @@
-name = "zmail"
+name = "mail-fork"
 main = "worker/src/index.ts"
 
 # 打包配置
